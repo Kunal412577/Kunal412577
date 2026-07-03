@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year B.Tech Computer Engineering student at A.P. Shah Institute of Technology with a strong passion for technology and innovation. I am deeply interested in Artificial Intelligence and Machine Learning, and I enjoy exploring how intelligent systems can solve real-world problems. I am continuously learning and working on enhancing my technical skills, aiming to build impactful solutions in the field of AI and emerging technologies.
+I am a fourth-year B.Tech Computer Engineering student at A.P. Shah Institute of Technology with a strong passion for technology and innovation. I am deeply interested in Artificial Intelligence and Machine Learning, and I enjoy exploring how intelligent systems can solve real-world problems. I am continuously learning and working on enhancing my technical skills, aiming to build impactful solutions in the field of AI and emerging technologies.
 
 
 ## 🌐 Socials:
